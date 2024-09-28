@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  },
+  "name": "atvddsteste",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurArgeri/AtvdDSteste.git"
+  },
+  "author": "ArthurArgeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurArgeri/AtvdDSteste/issues"
+  },
+  "homepage": "https://github.com/ArthurArgeri/AtvdDSteste#readme"
+}

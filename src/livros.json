@@ -1,0 +1,14 @@
+[
+    {
+        "Id": "1",
+        "Nome": "Memórias Póstumas de Brás Cubas",
+        "QuantidadeDisponivel": 34,
+        "Preco": 10
+    },
+    {
+        "Id": "2",
+        "Nome": "Quincas Borba",
+        "QuantidadeDisponivel": 13,
+        "Preco": 13
+    }
+]
